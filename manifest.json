@@ -3,7 +3,7 @@
     "name": "appsite",
     "short_name": "appsite",
     "start_url": " https://aliafrazeh-1378.github.io/appsite/",
-    "display": "standalone",
+   
     "background_color": "#fff",
     "theme_color": "#000",
     "description": "A readable Hacker News app.",
