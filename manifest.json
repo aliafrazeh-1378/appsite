@@ -1,7 +1,7 @@
 {
     "$schema": "https://json.schemastore.org/web-manifest-combined.json",
-    "name": "appsite",
-    "short_name": "appsite",
+    "name": "JETdrive",
+    "short_name": "JETdrive",
     "start_url": "https://aliafrazeh-1378.github.io/jetdrive/",
     "display": "standalone",
     "background_color": "#fff",
